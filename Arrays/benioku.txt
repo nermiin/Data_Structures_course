@@ -1,0 +1,9 @@
+c++ dili ile yazildi.
+Dosyadan verileri okuma ve bu verilerden yararlanarak siniflari olusturma islermleri yapmaktadir.
+.F5 tusuna basinca dosya debug islemi yapilmaktadir.
+Lutfen uygulamayi calistirdiginizda terminal paneli dogru bir sekilde gostermek icin max buyuta alin .
+
+Written as an aplication of data structure using c++ language.
+you can using debug by pressing F5 key.
+
+saygilarimla :) .
