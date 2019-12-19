@@ -7,4 +7,6 @@
 3. Çıkış 
 - Çıkış seçilmediği sürece program devam etmelidir.
 - Ödev dizi ödevi olup her dizi ve her sınıf nesnesi Heap bellek bölgesinde oluşturulmalı ve çöp oluşumu engellenmelidir.
+
  
+ ![Tüm detayları görmek için lütfen tıklayınız ](1.pdf)
