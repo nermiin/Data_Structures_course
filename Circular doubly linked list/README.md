@@ -16,7 +16,7 @@
 - Yığıtın bu ödevdeki işlevi düğümün üzerinden geçen değerleri kaydetmesidir. 
 - Çift Yönlü Dairesel Bağıl Listenin birinci ve sonuncu düğümlerinin adresleri tutulmalıdır. 
 - Bu sola veya sağa hareket etmede kolaylık sağlayacaktır. 
-* Menülerde Yapılacak İşlemler 
+- Menülerde Yapılacak İşlemler 
 1. Sola Hareket 
 Her düğümün içerisindeki sayı bir sol düğüme kaydırılacaktır. Düğümler aynı yerlerinde kalmalı sadece veriler bir sola ilerlemelidir. 
 2. Sağa Hareket 
@@ -26,4 +26,4 @@ Bir düğümün üzerinden geçen sayıları yazdırabilmek için içerisinde bu
 4. Tüm Durumları Yazdır 
 Menü 3 ile aynı yapıda çalışacaktır, fakat bütün düğümlerin üzerinden geçen sayıları yazdıracaktır. 
 
-![Tüm detaylatı görmek için lütfen tıklayınız .. ](https://github.com/nermiin/hotelbooking/blob/master/images/use_case.png)
+![Tüm detaylatı görmek için lütfen tıklayınız .. ](Odev_2)
