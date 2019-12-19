@@ -26,4 +26,4 @@ Bir düğümün üzerinden geçen sayıları yazdırabilmek için içerisinde bu
 4. Tüm Durumları Yazdır 
 Menü 3 ile aynı yapıda çalışacaktır, fakat bütün düğümlerin üzerinden geçen sayıları yazdıracaktır. 
 
-![Tüm detaylatı görmek için lütfen tıklayınız .. ](Odev_2)
+![Tüm detaylatı görmek için lütfen tıklayınız .. ](Odev_2.pdf)
