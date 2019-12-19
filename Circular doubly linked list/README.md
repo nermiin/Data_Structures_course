@@ -1,5 +1,5 @@
 # Ödev İçeriği 
-- Yazacağınız program C++ konsol uygulaması olup çalıştırıldığında Sayi.txt isimli dosyayı okuyup <h3> Çift Yönlü Dairesel Bağıl </h3> Listeyi oluşturmalıdır. 
+- Yazacağınız program C++ konsol uygulaması olup çalıştırıldığında Sayi.txt isimli dosyayı okuyup <h3> Çift Yönlü Dairesel Bağıl Listeyi </h3> oluşturmalıdır. 
 - Okuyacağı Sayi.txt dosyası formatı aşağıda verilmiştir. 
 159 12 1 9632 74 32 610 12 799 850 
 - Her sayıyı bir sonraki sayıdan bir boşluk ayırmaktadır.
