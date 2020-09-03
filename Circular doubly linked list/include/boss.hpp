@@ -7,7 +7,7 @@
  * * @assignment  :2_ödev
  * * @date        :28/11/2018 
  * * @author      :Nermin Kaya nermin.kaya.sau@gmail.com
- * *              :Gülsevim Fidan fidangulsevim@gmail.com   
+ * *              
  * */ 
  
 #ifndef BOSS_HPP
